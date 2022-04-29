@@ -16,6 +16,7 @@ Using a credit card credit dataset from LendingClub(hypothetical), a peer-to-pee
   - Recall
     - High Risk = 0.63
     - Low Risk = 0.66
+
 ![NRO](https://github.com/CodyMorin25/Credit_Risk_Analysis/blob/main/Images/Naive_Random_Oversampling.png)
 
 #### SMOTE Oversampling
@@ -26,6 +27,7 @@ Using a credit card credit dataset from LendingClub(hypothetical), a peer-to-pee
   - Recall
     - High Risk = 0.62
     - Low Risk = 0.65
+
 ![SMOTE](https://github.com/CodyMorin25/Credit_Risk_Analysis/blob/main/Images/SMOTE_Oversampling.png)
 
 #### Undersampling
@@ -36,6 +38,7 @@ Using a credit card credit dataset from LendingClub(hypothetical), a peer-to-pee
   - Recall
     - High Risk = 0.59
     - Low Risk = 0.46
+
 ![UnderSampling](https://github.com/CodyMorin25/Credit_Risk_Analysis/blob/main/Images/Undersampling.png)
 
 #### Combination Over/Under Sampling
@@ -46,6 +49,7 @@ Using a credit card credit dataset from LendingClub(hypothetical), a peer-to-pee
   - Recall
     - High Risk = 0.67
     - Low Risk = 0.55
+
 ![Over/Under](https://github.com/CodyMorin25/Credit_Risk_Analysis/blob/main/Images/Over_Under_Sampling.png)
 
 #### Balanced Random Forest Classifier
@@ -56,6 +60,7 @@ Using a credit card credit dataset from LendingClub(hypothetical), a peer-to-pee
   - Recall
     - High Risk = 0.71
     - Low Risk = 0.88
+
 ![BRLC](https://github.com/CodyMorin25/Credit_Risk_Analysis/blob/main/Images/Balanced_Random_Forest_Classifier.png)
 
 #### Easy Ensemble AdaBoost Classifier
@@ -66,6 +71,7 @@ Using a credit card credit dataset from LendingClub(hypothetical), a peer-to-pee
   - Recall
     - High Risk = 0.91
     - Low Risk = 0.94
+
 ![Ensemble](https://github.com/CodyMorin25/Credit_Risk_Analysis/blob/main/Images/Easy_Ensemble_AdaBoost_Classifier.png)
 
 # Summary
